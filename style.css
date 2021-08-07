@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+   background-color: #003380;
+    color: white;
+}
+.ways{
+    list-style: none;
+    color: #ffcce0;
+    font-size: 30px;
+}
+h1{
+    font-size: 50px;
+    color: ghostwhite;
+    font-family: 'Style Script', cursive;
+}
+#intro{
+    font-size: 20px;
+    font-family: serif;
+}
+p{
+    color: white;
+    font-size: 25px;
+}
